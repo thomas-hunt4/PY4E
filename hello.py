@@ -1,1 +1,2 @@
-print="hello world"
+print("on the right pathway")
+type(print)
