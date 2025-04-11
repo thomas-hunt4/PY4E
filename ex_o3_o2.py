@@ -15,5 +15,7 @@ elif s >=0.6:
     print('D')
 elif s <0.6:
     print("F")    
+else:
+    print("See the teacher after class")    
 
 

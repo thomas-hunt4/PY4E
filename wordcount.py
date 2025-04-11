@@ -6,3 +6,6 @@ print(z)
 
 print(type(z))
 
+f"{x:.4f}"
+
+y = f"{x: .4f}"

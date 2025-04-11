@@ -1,9 +1,9 @@
 group5 = ['Drashti', 'Tashoy', 'Alysha', 'Thomas']
-sliced_group5 = group5[0:2]
-sliced_group5a = group5[1:3]
+# sliced_group5 = group5[0:2]
+# sliced_group5a = group5[1:3]
 
-print(sliced_group5)
-print(sliced_group5a)
+# print(sliced_group5)
+# print(sliced_group5a)
 
 group5.append('Naps for days')
 

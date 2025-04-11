@@ -1,3 +1,3 @@
 inp=input('euro floor?')
-usf=int(inp) + 1
+usf=int(inp)+ 1
 print('US floor' , usf)
